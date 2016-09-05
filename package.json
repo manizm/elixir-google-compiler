@@ -1,0 +1,32 @@
+{
+  "name": "elixir-google-compiler",
+  "version": "1.0.0",
+  "description": "A Laravel Elixir extension for Google's Closure Compiler",
+  "main": "elixir-google-compiler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmandersen/elixir-google-compiler.git"
+  },
+  "keywords": [
+    "laravel",
+    "elixir",
+    "google",
+    "closure",
+    "compiler"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmandersen/elixir-google-compiler/issues"
+  },
+  "homepage": "https://github.com/cmandersen/elixir-google-compiler#readme",
+  "dependencies": {
+    "google-closure-compiler-js": "^20160828.0.1",
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^5.0.0",
+    "vinyl": "^1.2.0"
+  }
+}
